@@ -171,6 +171,13 @@ The inference pipeline generates:
 ```
 ```
 
+## Notes
+
+* The trained model checkpoint is provided through the download link below.
+* Utility and data-processing functions are implemented within `dataset.py` and the `common/` module.
+* Monte Carlo Dropout is used during inference for uncertainty estimation.
+
+
 ## Submission Contents
 
 * Source Code
