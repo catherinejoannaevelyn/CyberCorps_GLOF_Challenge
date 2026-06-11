@@ -125,6 +125,17 @@ Video Link:
 
 ---
 
+## Downloads
+
+### Model Checkpoint
+
+https://drive.google.com/file/d/1zYNr9ZnNXeOPr2ayxilQ5zHON-OdsNDC/view?usp=sharing
+
+### Generated Outputs
+
+https://drive.google.com/file/d/1DprPjc8Lg4xyteLKpKVR7V6AQqlAB7SR/view?usp=sharing
+
+
 ## Submission Contents
 
 * Source Code
