@@ -135,6 +135,41 @@ https://drive.google.com/file/d/1zYNr9ZnNXeOPr2ayxilQ5zHON-OdsNDC/view?usp=shari
 
 https://drive.google.com/file/d/1DprPjc8Lg4xyteLKpKVR7V6AQqlAB7SR/view?usp=sharing
 
+## How to Run
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Train the Model
+
+```bash
+python train.py
+```
+
+### Run Inference
+
+```bash
+python inference.py \
+  --checkpoint checkpoints/best.pt \
+  --images <input_image_folder> \
+  --out submission_outputs
+```
+
+### Outputs Generated
+
+The inference pipeline generates:
+
+* Segmentation masks
+* Visualization masks
+* Uncertainty maps
+* GLOF risk maps
+* Per-image JSON risk reports
+
+```
+```
 
 ## Submission Contents
 
