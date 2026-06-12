@@ -1,4 +1,4 @@
-<img width="956" height="379" alt="image" src="https://github.com/user-attachments/assets/fc09d89d-7580-4d24-97a0-d7a8d4e32896" /># Team CyberCorps - GLOFeagles 2026 Challenge Submission
+# Team CyberCorps - GLOFeagles 2026 Challenge Submission
 
 ## Overview
 
